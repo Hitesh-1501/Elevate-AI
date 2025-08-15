@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1094131923347",
+    "firebase_url": "https://elevateai-bff14-default-rtdb.firebaseio.com",
+    "project_id": "elevateai-bff14",
+    "storage_bucket": "elevateai-bff14.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1094131923347:android:f5a57e814e309b34545066",
+        "android_client_info": {
+          "package_name": "com.example.elevateai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1094131923347-u0foe67h043dgn5vj2ueja4gujuiqlud.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.elevateai",
+            "certificate_hash": "d8c3fff7b43c8e679e21090881dc0a91bfa08b22"
+          }
+        },
+        {
+          "client_id": "1094131923347-a4n2q5ajotg24jeeb4n62ie3pomkv7fn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXQuoGxlO5Z9rCDk0dwx0COU_VJTrLQSk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1094131923347-a4n2q5ajotg24jeeb4n62ie3pomkv7fn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

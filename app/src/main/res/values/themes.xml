@@ -1,0 +1,26 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.ElevateAI" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/blue_primary</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorPrimaryContainer">@color/blue_pale</item>
+        <item name="colorOnPrimaryContainer">@color/blue_primary</item>
+
+        <item name="colorSecondary">@color/blue_primary</item>
+        <item name="colorOnSecondary">@color/white</item>
+        <item name="colorSecondaryContainer">@color/blue_pale</item>
+        <item name="colorOnSecondaryContainer">@color/blue_primary</item>
+
+        <item name="android:statusBarColor">@color/gray_background</item>
+        <item name="android:windowLightStatusBar">true</item>
+
+        <item name="android:colorBackground">@color/gray_background</item>
+        <item name="colorSurface">@color/white</item>
+        <item name="colorOnBackground">@color/slate_dark</item>
+        <item name="colorOnSurface">@color/slate_dark</item>
+
+    </style>
+
+    <style name="Theme.ElevateAI" parent="Base.Theme.ElevateAI" />
+
+</resources>
